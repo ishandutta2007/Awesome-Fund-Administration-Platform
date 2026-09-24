@@ -71,7 +71,7 @@ Below is a detailed comparison of top commercial fund administration SaaS provid
 
 Full institutional fund administration is predominantly commercial due to audit and fiduciary mandates. However, several high-quality open-source projects provide data backbones, accounting engines, ERP modules, and financial modeling tools usable for private market infrastructure.
 
-*Sorted by GitHub Stars_Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 | 📦 Repository & Link | ⭐ Stars_Count | 📝 Description & Fund Admin Relevance |
 | :--- | :--- | :--- |
