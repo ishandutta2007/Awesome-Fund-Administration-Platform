@@ -71,9 +71,9 @@ Below is a detailed comparison of top commercial fund administration SaaS provid
 
 Full institutional fund administration is predominantly commercial due to audit and fiduciary mandates. However, several high-quality open-source projects provide data backbones, accounting engines, ERP modules, and financial modeling tools usable for private market infrastructure.
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
-| 📦 Repository & Link | ⭐ Star Count | 📝 Description & Fund Admin Relevance |
+| 📦 Repository & Link | ⭐ Stars_Count | 📝 Description & Fund Admin Relevance |
 | :--- | :--- | :--- |
 | **[Odoo ERP Accounting Engine](https://github.com/odoo/odoo/stargazers)** | [![Odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Enterprise open-source ERP with extensible double-entry multi-entity general ledger and financial reporting modules. |
 | **[ERPNext Accounting & Multi-Entity Suite](https://github.com/frappe/erpnext/stargazers)** | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Open-source Python & JS ERP platform adaptable for multi-company investment entity tracking and cash management. |
@@ -94,7 +94,7 @@ Full institutional fund administration is predominantly commercial due to audit 
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add or edit** entries in `README.md` following the existing tabular structure.
-3. ℹ️ **Provide essential details**: Include official name, website link, factual description, starting pricing tier, free trial policy, and open-source star count badges.
+3. ℹ️ **Provide essential details**: Include official name, website link, factual description, starting pricing tier, free trial policy, and open-source Stars_Count badges.
 4. 🚀 **Submit a Pull Request (PR)** with a clear title and description.
 
 ---
